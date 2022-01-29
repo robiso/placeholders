@@ -1,13 +1,13 @@
 {
     "version": 1,
-    "themes": {
-        "sky": {
-            "name": "Sky",
-            "repo": "https://github.com/robiso/sky/tree/master",
-            "zip": "https://github.com/robiso/sky/archive/master.zip",
-            "summary": "Default WonderCMS theme (2022). Theme works without Bootstrap and jQuery.",
-            "version": "3.2.1",
-            "image": "https://raw.githubusercontent.com/robiso/sky/master/preview.jpg"
+    "plugins": {
+        "placeholders": {
+            "name": "placeholders",
+            "repo": "https://github.com/robiso/placeholders/tree/master",
+            "zip": "https://github.com/robiso/placeholders/archive/master.zip",
+            "summary": "Use placeholders in your site. Never worry about updating your footer again!",
+            "version": "3.3.0",
+            "image": "https://raw.githubusercontent.com/robiso/placeholders/master/preview.jpg"
         }
     }
 }
